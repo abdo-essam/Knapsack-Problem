@@ -1,0 +1,3 @@
+D:/COMPUTER/CLionProjects/Knapsack/cmake-build-debug/CMakeFiles/Knapsack.dir
+D:/COMPUTER/CLionProjects/Knapsack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/COMPUTER/CLionProjects/Knapsack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
